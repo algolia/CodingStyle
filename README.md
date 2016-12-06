@@ -13,7 +13,7 @@ Import [Android.xml](./Android.xml) in Android Studio: `Preferences` > `Editor` 
 
 ## JavaScript
 We use [ESLint](http://eslint.org/) for all our JavaScript projects.  
-Our ESlint configuration is [available on GitHub](https://github.com/algolia/eslint-config-algolia), where you'll find the [usage instructions](https://github.com/algolia/eslint-config-algolia#usage)
+Our ESlint configuration is [available on GitHub](https://github.com/algolia/eslint-config-algolia), where you'll find the [usage instructions](https://github.com/algolia/eslint-config-algolia#usage).
 
 ## Scala
 We use [Scalafmt](http://scalafmt.org/) for formatting our Scala projects.  
