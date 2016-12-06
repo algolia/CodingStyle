@@ -2,7 +2,7 @@
 Coding guidelines for algolia projects
 
 # Adding a coding style
-If your coding style is project-agnostic, put it under [Languages/Technologies](#languages-technologies) with the instructions to apply it.
+If your coding style is project-agnostic, put it under [Languages/Technologies](#languagestechnologies) with the instructions to apply it.
 
 # Languages/Technologies
 _Coding styles per language or technology_
