@@ -2,7 +2,8 @@
 Coding guidelines for algolia projects
 
 # Adding a coding style
-If your coding style is project-agnostic, put it under [Languages/Technologies](#languagestechnologies) with the instructions to apply it.
+If your coding style is project-agnostic, put it in [Languages/Technologies](#languagestechnologies) with a subheading for the language or technology it covers.  
+If it is relative to a given project, put it in [Projects](#projects) with a new subheading.
 
 # Languages/Technologies
 _Coding styles per language or technology_
@@ -17,3 +18,6 @@ Our ESlint configuration is [available on GitHub](https://github.com/algolia/esl
 ## Scala
 We use [Scalafmt](http://scalafmt.org/) for formatting our Scala projects.  
 Download [.scalafmt.conf](./scalafmt.conf), and follow the [Installation procedure](https://olafurpg.github.io/scalafmt/#Installation) to use it with your favorite IDE or through CLI.
+
+# Projects
+_Coding styles per project_
