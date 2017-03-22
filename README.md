@@ -17,7 +17,7 @@ Our ESlint configuration is [available on GitHub](https://github.com/algolia/esl
 
 ## Scala
 We use [Scalafmt](http://scalafmt.org/) for formatting our Scala projects.  
-Download [.scalafmt.conf](./scalafmt.conf), and follow the [Installation procedure](https://olafurpg.github.io/scalafmt/#Installation) to use it with your favorite IDE or through CLI.
+Download [.scalafmt.conf](./.scalafmt.conf), and follow the [Installation procedure](https://olafurpg.github.io/scalafmt/#Installation) to use it with your favorite IDE or through CLI.
 
 ## Go
 See [Go.md](./Go.md) dedicated file.
